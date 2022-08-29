@@ -17,7 +17,18 @@
     transition: cubic-bezier(0.1, 0.2, 0.7, 0.4);
 }
 
-body {
-    animation: alternate;
-    margin-top: 50px;
+img {
+    height: auto;
+    width: 700px;
+
+}
+
+p {
+    font-size: 24px;
+    color: black;
+}
+
+li {
+    font-size: 24px;
+    color: rgb(192, 6, 186);
 }
